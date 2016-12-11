@@ -1,1 +1,1 @@
-# ~mingfei.github.io
+# mingfei.github.io
